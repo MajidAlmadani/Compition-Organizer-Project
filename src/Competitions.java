@@ -246,9 +246,9 @@ public class Competitions {
             templateSubject = templateSubject.replace("[their ranking]",rankStudent.get(k));
             templateSubject = templateSubject.replace("[the competition name]",competitionName);
 
-            final String username = "hsbxkdie@gmail.com";
-            final String password = "0505300727";
-            String fromEmail = "hsbxkdie@gmail.com";
+            final String username = "";
+            final String password = "";
+            String fromEmail = "";
             String toEmail = studensmail.get(k);
             
             
